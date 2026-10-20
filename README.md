@@ -47,7 +47,7 @@ LangGraph-Course/
 #### 1. Clone the Repository
 
 ```zsh
-git clone https://github.com/rdtiv/LangGraph-Course.git
+git clone https://github.com/akashkolte/LangGraph-agents.git
 cd LangGraph-Course
 ```
 
